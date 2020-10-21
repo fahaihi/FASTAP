@@ -4,7 +4,7 @@
 # 下载地址：
 # 联系方式：adairmillersh@gmail.com
 # 基础使用说明：
-
+![](https://github.com/fahaihi/FASTAP/blob/master/1.JPG)
    一：模块简介
    1.1：FASTA文件格式处理
             FASTA格式是一种基于文本用于表示核酸序列或多肽序列的格式。其中核酸
